@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\T3H_K34DL1_Winforms\T3H_K34DL1_Winforms\bin\Debug\netcoreapp3.1\T3H_K34DL1_Winforms.exe
+C:\Users\Admin\source\repos\T3H_K34DL1_Winforms\T3H_K34DL1_Winforms\bin\Debug\netcoreapp3.1\T3H_K34DL1_Winforms.deps.json
+C:\Users\Admin\source\repos\T3H_K34DL1_Winforms\T3H_K34DL1_Winforms\bin\Debug\netcoreapp3.1\T3H_K34DL1_Winforms.runtimeconfig.json
+C:\Users\Admin\source\repos\T3H_K34DL1_Winforms\T3H_K34DL1_Winforms\bin\Debug\netcoreapp3.1\T3H_K34DL1_Winforms.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\T3H_K34DL1_Winforms\T3H_K34DL1_Winforms\bin\Debug\netcoreapp3.1\T3H_K34DL1_Winforms.dll
+C:\Users\Admin\source\repos\T3H_K34DL1_Winforms\T3H_K34DL1_Winforms\bin\Debug\netcoreapp3.1\T3H_K34DL1_Winforms.pdb
+C:\Users\Admin\source\repos\T3H_K34DL1_Winforms\T3H_K34DL1_Winforms\obj\Debug\netcoreapp3.1\T3H_K34DL1_Winforms.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\T3H_K34DL1_Winforms\T3H_K34DL1_Winforms\obj\Debug\netcoreapp3.1\T3H_K34DL1_Winforms.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\T3H_K34DL1_Winforms\T3H_K34DL1_Winforms\obj\Debug\netcoreapp3.1\T3H_K34DL1_Winforms.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\T3H_K34DL1_Winforms\T3H_K34DL1_Winforms\obj\Debug\netcoreapp3.1\T3H_K34DL1_Winforms.AssemblyInfo.cs
+C:\Users\Admin\source\repos\T3H_K34DL1_Winforms\T3H_K34DL1_Winforms\obj\Debug\netcoreapp3.1\T3H_K34DL1_Winforms.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\T3H_K34DL1_Winforms\T3H_K34DL1_Winforms\obj\Debug\netcoreapp3.1\T3H_K34DL1_Winforms.dll
+C:\Users\Admin\source\repos\T3H_K34DL1_Winforms\T3H_K34DL1_Winforms\obj\Debug\netcoreapp3.1\T3H_K34DL1_Winforms.pdb
+C:\Users\Admin\source\repos\T3H_K34DL1_Winforms\T3H_K34DL1_Winforms\obj\Debug\netcoreapp3.1\T3H_K34DL1_Winforms.genruntimeconfig.cache
+C:\Users\Admin\source\repos\T3H_K34DL1_Winforms\T3H_K34DL1_Winforms\obj\Debug\netcoreapp3.1\T3H_K34DL1_Winforms.frmStudent.resources
+C:\Users\Admin\source\repos\T3H_K34DL1_Winforms\T3H_K34DL1_Winforms\obj\Debug\netcoreapp3.1\T3H_K34DL1_Winforms.loginForm.resources
+C:\Users\Admin\source\repos\T3H_K34DL1_Winforms\T3H_K34DL1_Winforms\obj\Debug\netcoreapp3.1\T3H_K34DL1_Winforms.sigupForm.resources
